@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain-openai
+pydantic
+pandas
+numpy
+python-dotenv
+ipykernel
